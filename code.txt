@@ -1,0 +1,9 @@
+Hipótesis de regresión:
+"Hipótesis de regresión: Existe una relación entre la distancia recorrida por un jugador (TravelledDistance) y el tiempo que sobrevive en una ronda (TimeAlive) en el mapa de Counter Strike."
+
+Puedes utilizar la distancia recorrida como variable independiente (X) y el tiempo de supervivencia como variable dependiente (Y) para entrenar un modelo de regresión que prediga el tiempo de supervivencia en función de la distancia recorrida. Esto te permitirá explorar si hay alguna relación entre el movimiento y la duración de la supervivencia de un jugador en una ronda.
+
+Hipótesis para agrupación:
+"Hipótesis de agrupación: Los jugadores se pueden agrupar en diferentes estilos de juego basados en las armas primarias que utilizan y la cantidad de asesinatos realizados con cada tipo de arma."
+
+Puedes utilizar las características de las armas primarias (PrimaryAssaultRifle, PrimarySniperRifle, PrimaryHeavy, PrimarySMG, PrimaryPistol) y la cantidad de asesinatos realizados con cada tipo de arma para agrupar a los jugadores en diferentes estilos de juego. Utilizando algoritmos de agrupación, podrías identificar grupos de jugadores que muestran preferencias similares de armas primarias y rendimiento en términos de asesinatos. Esto te ayudará a comprender los diferentes enfoques y estrategias utilizados por los jugadores en función de las armas que eligen.
